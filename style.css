@@ -134,8 +134,12 @@ input[type="checkbox"]{
 
 
 
-.assignment-content h1, p, h2 {
+.assignment-content h1, p, h2, h3, ul {
   margin-top: 10px;
+}
+
+.assignment-content ul {
+  margin-left: 15px;
 }
 
 #lagrangian {
