@@ -105,7 +105,9 @@ input[type="checkbox"]{
 .flex-container {
   flex-direction: column;
   padding: 15px;
+  background-color: #f6f9ff;
 }
+
 @media(min-width:1079px){
   .assignment-content {
     width: 50%;
@@ -142,6 +144,10 @@ input[type="checkbox"]{
   margin-left: 15px;
 }
 
+.assignment-content {
+  background-color: #f6f9ff;
+}
+
 #lagrangian {
   filter: invert(100%);
   display: block;
@@ -159,4 +165,17 @@ input[type="checkbox"]{
 #nasa {
   text-align: center !important;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
