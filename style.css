@@ -154,7 +154,23 @@ input[type="checkbox"]{
   margin: 0px auto;
 }
 
-#clicode {
+#html-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0px auto;
+  padding: 8px;
+}
+
+#cli-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0px auto;
+  padding: 8px;
+}
+
+#iphone-img {
   max-width: 100%;
   height: auto;
   display: block;
@@ -166,7 +182,13 @@ input[type="checkbox"]{
   text-align: center !important;
 }
 
+#nasa-guidelines {
+  text-align: center !important;
+}
 
+body {
+  background-color: #f6f9ff;
+}
 
 
 
