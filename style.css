@@ -186,12 +186,20 @@ input[type="checkbox"]{
   padding: 8px;
 }
 
+#achecks-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0px auto;
+  padding: 8px;
+}
+
 #nasa {
-  text-align: center !important;
+  text-align: center;
 }
 
 #nasa-guidelines {
-  text-align: center !important;
+  text-align: center;
 }
 
 body {
