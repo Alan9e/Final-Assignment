@@ -178,6 +178,14 @@ input[type="checkbox"]{
   padding: 8px;
 }
 
+#real-phone-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0px auto;
+  padding: 8px;
+}
+
 #nasa {
   text-align: center !important;
 }
