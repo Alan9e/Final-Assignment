@@ -451,11 +451,13 @@ footer span a:hover{
       font-size: 19px;
   }
 }
-
-
-
-
-
+.media{
+  display: inline-flex;
+}
+.media .icon span i{
+  font-size: 16px;
+  margin: 8px;
+}
 
 
 
