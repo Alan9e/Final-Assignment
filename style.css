@@ -232,7 +232,7 @@ section .title{
 }
 .home{
   display: flex;
-  background: url("img/Oslometlogo.jpg") no-repeat center;
+  background: url("images/Oslometlogo.jpg") no-repeat center;
   color: white;
   min-height: 500px;
   background-size: cover;
