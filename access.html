@@ -54,8 +54,20 @@
                 <p>After we settled on our nav-bar color, we used an online palette generator to find colors that would go well with the nav-bar.
                     You can see our selection here: <a href="https://coolors.co/04080f-507dbc-a1c6ea-bbd1ea-dae3e5">https://coolors.co</a>
                     We used the softest color in that palette for our background color, it is relaxing on the eyes and goes well with our black font. 
+                    The contrast ratio for our background color and text sits at close to 20:1 
                 </p>
+            <h2>Code validation</h2>
+                <p>We used online code review of html with <a href="https://achecker.achecks.ca/checker">achecker.achecks.ca</a> and CSS via <a href="http://jigsaw.w3.org/css-validato">jigsaw.w3.org</a>
+                    We did elect to ignore one problem, and that was replacing <strong>i</strong> with <strong>em</strong> in the navigation bar, as that would break 
+                    elements of the navigation.
+                </p>
+                <picture>
+                    <source media="(min-width: 320px)" srcset="images/achecks.png">
+                    <img src="images/achecks.png" alt="achecks.ca validation" id="achecks-img">
+                </picture>
+                <p>Other interesting potential problems were alt text for our image of lagrangian points, the validator does not seem to like any description there.</p>
         </div>
     </div>
+    <div class="footer-assignment"></div>
 </body>
 </html>
